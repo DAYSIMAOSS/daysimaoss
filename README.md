@@ -23,53 +23,126 @@ Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e c
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias (Análise de Dados)
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
+    alt="Python"
+    title="Python"
+    width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-
 
+<img 
+    align="left" 
+    alt="Pandas"
+    title="Pandas"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
+/>
 
+<img 
+    align="left" 
+    alt="NumPy"
+    title="NumPy"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Jupyter Notebook"
+    title="Jupyter Notebook"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="scikit-learn"
+    title="Scikit-Learn"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" 
+/>
+
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Power BI"
+    title="Power BI"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Tableau"
+    title="Tableau"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Excel"
+    title="Excel"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git"
+    title="Git"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<br><br><br>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=daysimaoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=daysimaoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
