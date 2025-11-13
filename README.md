@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e conceitos de **Machine Learning**. Desenvolvo projetos voltados para análise, visualização, automação e soluções orientadas a dados. Aqui no GitHub, compartilho minha evolução, meus estudos e os projetos que crio para fortalecer minhas competências.
+Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e conceitos de **Machine Learning**. Desenvolvo projetos focados em análise, visualização, automação e soluções orientadas a dados. Aqui no GitHub, compartilho minha evolução, meus estudos e os projetos que crio para fortalecer minhas competências.
 
 <p align="left">
     <a href="https://github.com/daysimaoss?tab=repositories&sort=stargazers">
@@ -23,6 +23,28 @@ Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e c
 
 ---
 
+### 💡 Sobre mim
+
+- 📊 Focada em **Análise de Dados** e insights orientados a negócio  
+- 🐍 Trabalhando com **Python, SQL, Power BI** e **Machine Learning**  
+- 📚 Sempre estudando para fortalecer minhas bases em dados e estatística  
+- 🚀 Construindo projetos práticos para portfólio e evolução profissional  
+
+---
+
+### 🚀 Projetos em Destaque
+
+> *Você pode trocar os links `#` pelos repositórios reais quando quiser.*
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [🔍 Previsão de Vendas](#) | Modelo para prever vendas semanais com base em histórico | Python, Pandas, Scikit-Learn |
+| [📊 Dashboard de KPIs](#) | Dashboard com métricas de negócios (conversão, ticket médio, etc.) | Power BI, DAX |
+| [🧹 Pipeline de Limpeza de Dados](#) | ETL para tratar dados brutos e gerar base analítica | Python, SQL |
+| [📈 Análise Exploratória de Dados](#) | Estudo com visualizações e insights a partir de dataset público | Python, Pandas, Matplotlib |
+
+---
+
 ### 🤖 Linguagens e Tecnologias (Análise de Dados)
 
 <p align="left">
@@ -37,20 +59,36 @@ Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e c
 
   <img alt="Scikit-Learn" title="Scikit-Learn" width="40" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" />
 
-  <img alt="Machine Learning" title="Machine Learning" width="110" src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=white" />
+  <img 
+    alt="Machine Learning" 
+    title="Machine Learning" 
+    width="110" 
+    src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=white" 
+  />
 
   <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
   <img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
-  <img alt="Power BI" title="Power BI" width="110" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000000" />
+  <img 
+    alt="Power BI" 
+    title="Power BI" 
+    width="110" 
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000000" 
+  />
 
-  <img alt="Excel" title="Excel" width="110" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img 
+    alt="Excel" 
+    title="Excel" 
+    width="110" 
+    src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" 
+  />
 
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </p>
 
+---
 
 ### 📊 Estatísticas
 
