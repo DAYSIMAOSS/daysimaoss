@@ -25,19 +25,32 @@ Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e c
 
 ### 🤖 Linguagens e Tecnologias (Análise de Dados)
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg)
-![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg)
-![Jupyter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)
-![Scikit-Learn](https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+<p align="left">
 
----
+  <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+  <img alt="Pandas" title="Pandas" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+
+  <img alt="NumPy" title="NumPy" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+
+  <img alt="Jupyter Notebook" title="Jupyter Notebook" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+
+  <img alt="Scikit-Learn" title="Scikit-Learn" width="40" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" />
+
+  <img alt="Machine Learning" title="Machine Learning" width="110" src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=white" />
+
+  <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+  <img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+  <img alt="Power BI" title="Power BI" width="110" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000000" />
+
+  <img alt="Excel" title="Excel" width="110" src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+
+  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+</p>
+
 
 ### 📊 Estatísticas
 
