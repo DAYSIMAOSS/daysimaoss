@@ -37,6 +37,14 @@ Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e c
 
   <img alt="Scikit-Learn" title="Scikit-Learn" width="40px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" />
 
+  <!-- Machine Learning Symbol -->
+  <img 
+    alt="Machine Learning" 
+    title="Machine Learning" 
+    height="28" 
+    src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white"
+  />
+
   <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
   <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -105,3 +113,4 @@ Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e c
   </a>
 
 </p>
+
