@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Eu sou a Dayanne Simão!
 
-**`Analista de dados`**
+**`Analista de Dados`**
 
 Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e conceitos de **Machine Learning**. Desenvolvo projetos voltados para análise, visualização, automação e soluções orientadas a dados. Aqui no GitHub, compartilho minha evolução, meus estudos e os projetos que crio para fortalecer minhas competências.
 
@@ -25,106 +25,91 @@ Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e c
 
 ### 🤖 Linguagens e Tecnologias (Análise de Dados)
 
-<img 
-    align="left" 
+<p align="left">
+
+  <img 
     alt="Python"
     title="Python"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="Pandas"
     title="Pandas"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="NumPy"
     title="NumPy"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="Jupyter Notebook"
     title="Jupyter Notebook"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
-    alt="scikit-learn"
+  <img 
+    alt="Scikit-Learn"
     title="Scikit-Learn"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px; border-radius: 6px;" 
     src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" 
-/>
+  />
 
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL"
+  <img 
+    alt="MySQL"
+    title="MySQL"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="PostgreSQL"
     title="PostgreSQL"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
-/>
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="Power BI"
     title="Power BI"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" 
-/>
+    height="28" 
+    style="padding-right: 12px;" 
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" 
+  />
 
-<img 
-    align="left" 
-    alt="Tableau"
-    title="Tableau"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" 
-/>
-
-<img 
-    align="left" 
+  <img 
     alt="Excel"
     title="Excel"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
-/>
+    height="28" 
+    style="padding-right: 12px;" 
+    src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff" 
+  />
 
-<img 
-    align="left" 
+  <img 
     alt="Git"
     title="Git"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 12px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+  />
 
-<br><br><br>
+</p>
+
+<br><br>
 
 ---
 
@@ -146,3 +131,38 @@ Sou Analista de Dados em desenvolvimento, com habilidades em SQL, Python, BI e c
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=daysimaoss&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<br><br>
+
+---
+
+### 📬 Contato
+
+<p align="left">
+
+  <a href="mailto:dayannesimaotech@gmail.com" target="_blank">
+    <img 
+      alt="Email" 
+      title="Enviar email" 
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dayannesimao/" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Visitar LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+
+  <a href="tel:+5511947282309">
+    <img 
+      alt="Telefone" 
+      title="Entrar em contato" 
+      src="https://img.shields.io/badge/Telefone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+    />
+  </a>
+
+</p>
+
